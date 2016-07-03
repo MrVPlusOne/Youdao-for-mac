@@ -1,0 +1,2 @@
+cd "$(dirname "$0")"
+mv ./Lookup\ in\ Youdao.workflow/ ~/Library/Services
