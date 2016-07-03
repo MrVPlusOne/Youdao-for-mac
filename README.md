@@ -15,4 +15,6 @@ Add "look up in Youdao" Service to your mac. 为你的Mac添加“有道查询�
 
 ![alt tag](LLIY1.png)
 
+便会弹出有道的窗口
+
 ![alt tag](LLIY2.png)
